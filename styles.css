@@ -1,0 +1,16 @@
+/* #myImage {
+    width: 360px;
+    height: 250px
+} */
+
+body {
+    background-color: black;
+}
+
+#navbarResponsive {
+   float: right;
+}
+
+/* .carousel-inner {
+    
+} */
